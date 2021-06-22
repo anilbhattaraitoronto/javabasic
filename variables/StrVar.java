@@ -1,4 +1,4 @@
-// Creating variables and using them
+
 
 public class StrVar {
     public static void main(String [] args){
