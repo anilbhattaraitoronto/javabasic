@@ -1,3 +1,4 @@
+package datatypes;
 public class LongType{
     public static void main(String[] args){
         //declare long type variable

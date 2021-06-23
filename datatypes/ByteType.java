@@ -1,10 +1,10 @@
-import javax.sound.sampled.AudioFileFormat.Type;
+package datatypes;
 
 public class ByteType{
-    public static void main(String[]args){
-        //Byte data type declaration
+    public static void main(String[] args){
+        //declare byte variable
 
-        byte myByte = 5;
-        System.out.println("'" + myByte + "'" + " is byte data type.");
+        byte myAge = 51;
+        System.out.println("Hello Byte, my age is: " + myAge);
     }
 }

@@ -1,3 +1,5 @@
+package datatypes;
+
 public class IntType{
     public static void main(String[] args){
         //create int type variable and use it
