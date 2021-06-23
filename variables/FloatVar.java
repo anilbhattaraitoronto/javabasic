@@ -1,3 +1,4 @@
+package variables;
 public class FloatVar{
     public static void main(String[] args){
         /*declare a float variable. We need to put 'f' at the 

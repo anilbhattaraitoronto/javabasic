@@ -1,3 +1,4 @@
+package variables;
 public class JoinVar{
     public static void main(String [] args){
         //Joining variables to make new variable

@@ -1,3 +1,4 @@
+package variables;
 public class ByteVar{
     public static void main(String[] args){
         //create Byte variable

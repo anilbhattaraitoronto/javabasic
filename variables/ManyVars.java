@@ -1,3 +1,4 @@
+package variables;
 public class ManyVars{
     public static void main(String[] args){
         //declare many variables
