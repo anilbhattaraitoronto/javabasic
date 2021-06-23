@@ -12,7 +12,9 @@ public class Arith{
         totalPrice -=5;
         totalPrice *=5;
         totalPrice /=25;
+        int remainder = unitPrice%2;
         int totalNumber = totalPrice/unitPrice;
         System.out.println("Total number of items is: " + totalNumber);
+        System.out.println("The remainder is: " + remainder);
     }
 }
