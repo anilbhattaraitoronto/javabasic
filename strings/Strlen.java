@@ -10,5 +10,11 @@ public class Strlen{
         System.out.println(myFullName.toLowerCase());
         System.out.println(myFullName.toUpperCase());
         System.out.println("the location is: " + myFullName.indexOf("Anil"));
+        System.out.println("My home town is \"laurighol\"");
+        System.out.println("Can I call you \'weirdo\'");
+        System.out.println("It\'s called \\ backslash.");
+        System.out.println(myFullName.contains("anil"));
+        System.out.println(myFullName.contains("Anil"));
+        System.out.println(myFullName.replace("a", "b"));
     }
 }
