@@ -7,5 +7,8 @@ public class MathMax{
         System.out.println(Math.min(24, 2));
         System.out.println(Math.sqrt(64));
         System.out.println(Math.abs(-4.67));
+        System.out.println(Math.random());
+        int randNum = (int)(Math.random()*101);
+        System.out.println("The random number is: " +randNum);
     }
 }
